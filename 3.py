@@ -1,2 +1,5 @@
 def div(x, y):
-    return x / y
+    if y != 0:
+        return x / y
+    else:
+        raise Exception('y == 0!')
