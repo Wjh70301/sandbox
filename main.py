@@ -1,2 +1,3 @@
 if __name__ == '__main__':
-    print('hello BOSS!')
+    print('Are we done?')
+    print('hello world!')
