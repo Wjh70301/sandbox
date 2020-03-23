@@ -4,3 +4,5 @@ if __name__ == '__main__':
     print('hello world!')
     red = 1
     yellow = 2
+    green = 3
+
