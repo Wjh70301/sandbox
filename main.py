@@ -5,4 +5,4 @@ if __name__ == '__main__':
     red = 1
     yellow = 2
     green = 3
-
+    news = 4
