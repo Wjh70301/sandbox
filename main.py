@@ -6,3 +6,5 @@ if __name__ == '__main__':
     yellow = 2
     green = 3
     news = 4
+    pink = 7
+
